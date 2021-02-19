@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\C#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\Formlar Arası Geçiş.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\Formlar_Arası_Geçiş.Form1.resources
+C:\Users\Asus\Desktop\C#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\Formlar_Arası_Geçiş.Form2.resources
+C:\Users\Asus\Desktop\C#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\Formlar_Arası_Geçiş.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\Formlar Arası Geçiş.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Formlar Arası Geçiş\Formlar Arası Geçiş\bin\Debug\Formlar Arası Geçiş.exe.config
+C:\Users\Asus\Desktop\C#\Formlar Arası Geçiş\Formlar Arası Geçiş\bin\Debug\Formlar Arası Geçiş.exe
+C:\Users\Asus\Desktop\C#\Formlar Arası Geçiş\Formlar Arası Geçiş\bin\Debug\Formlar Arası Geçiş.pdb
+C:\Users\Asus\Desktop\C#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\Formlar Arası Geçiş.exe
+C:\Users\Asus\Desktop\C#\Formlar Arası Geçiş\Formlar Arası Geçiş\obj\Debug\Formlar Arası Geçiş.pdb
