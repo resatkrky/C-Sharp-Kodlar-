@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\C#\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\bin\Debug\Şampiyonlar Ligi Kura Çekimi.exe.config
+C:\Users\Asus\Desktop\C#\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\bin\Debug\Şampiyonlar Ligi Kura Çekimi.exe
+C:\Users\Asus\Desktop\C#\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\bin\Debug\Şampiyonlar Ligi Kura Çekimi.pdb
+C:\Users\Asus\Desktop\C#\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\obj\Debug\Şampiyonlar Ligi Kura Çekimi.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\obj\Debug\Şampiyonlar_Ligi_Kura_Çekimi.Form1.resources
+C:\Users\Asus\Desktop\C#\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\obj\Debug\Şampiyonlar_Ligi_Kura_Çekimi.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\obj\Debug\Şampiyonlar Ligi Kura Çekimi.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\obj\Debug\Şampiyonlar Ligi Kura Çekimi.exe
+C:\Users\Asus\Desktop\C#\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\obj\Debug\Şampiyonlar Ligi Kura Çekimi.pdb

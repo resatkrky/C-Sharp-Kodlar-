@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\C#\Radyo Csharp\Radyo Csharp\obj\Debug\Radyo Csharp.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Radyo Csharp\Radyo Csharp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\C#\Radyo Csharp\Radyo Csharp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\Desktop\C#\Radyo Csharp\Radyo Csharp\obj\Debug\Radyo Csharp.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\C#\Radyo Csharp\Radyo Csharp\obj\Debug\Radyo_Csharp.Form1.resources
+C:\Users\Asus\Desktop\C#\Radyo Csharp\Radyo Csharp\obj\Debug\Radyo_Csharp.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Radyo Csharp\Radyo Csharp\obj\Debug\Radyo Csharp.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Radyo Csharp\Radyo Csharp\bin\Debug\Radyo Csharp.exe.config
+C:\Users\Asus\Desktop\C#\Radyo Csharp\Radyo Csharp\bin\Debug\Radyo Csharp.exe
+C:\Users\Asus\Desktop\C#\Radyo Csharp\Radyo Csharp\bin\Debug\Radyo Csharp.pdb
+C:\Users\Asus\Desktop\C#\Radyo Csharp\Radyo Csharp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\C#\Radyo Csharp\Radyo Csharp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\Desktop\C#\Radyo Csharp\Radyo Csharp\obj\Debug\Radyo Csharp.exe
+C:\Users\Asus\Desktop\C#\Radyo Csharp\Radyo Csharp\obj\Debug\Radyo Csharp.pdb

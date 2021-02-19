@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\C#\SaatDakikaMod\SaatDakikaMod\bin\Debug\SaatDakikaMod.exe.config
+C:\Users\Asus\Desktop\C#\SaatDakikaMod\SaatDakikaMod\bin\Debug\SaatDakikaMod.exe
+C:\Users\Asus\Desktop\C#\SaatDakikaMod\SaatDakikaMod\bin\Debug\SaatDakikaMod.pdb
+C:\Users\Asus\Desktop\C#\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.Form1.resources
+C:\Users\Asus\Desktop\C#\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.exe
+C:\Users\Asus\Desktop\C#\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.pdb
