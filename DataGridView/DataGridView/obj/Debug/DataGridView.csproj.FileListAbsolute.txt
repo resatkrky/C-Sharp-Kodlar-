@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\C#\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\Asus\Desktop\C#\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\Asus\Desktop\C#\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\Asus\Desktop\C#\DataGridView\DataGridView\obj\Debug\DataGridView.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\DataGridView\DataGridView\obj\Debug\DataGridView.Form1.resources
+C:\Users\Asus\Desktop\C#\DataGridView\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\Asus\Desktop\C#\DataGridView\DataGridView\obj\Debug\DataGridView.pdb

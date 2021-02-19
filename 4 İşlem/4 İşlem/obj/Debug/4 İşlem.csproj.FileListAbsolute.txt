@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\C#\4 İşlem\4 İşlem\bin\Debug\4 İşlem.exe.config
+C:\Users\Asus\Desktop\C#\4 İşlem\4 İşlem\bin\Debug\4 İşlem.exe
+C:\Users\Asus\Desktop\C#\4 İşlem\4 İşlem\bin\Debug\4 İşlem.pdb
+C:\Users\Asus\Desktop\C#\4 İşlem\4 İşlem\obj\Debug\4 İşlem.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\4 İşlem\4 İşlem\obj\Debug\_4_İşlem.Form1.resources
+C:\Users\Asus\Desktop\C#\4 İşlem\4 İşlem\obj\Debug\_4_İşlem.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\4 İşlem\4 İşlem\obj\Debug\4 İşlem.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\4 İşlem\4 İşlem\obj\Debug\4 İşlem.exe
+C:\Users\Asus\Desktop\C#\4 İşlem\4 İşlem\obj\Debug\4 İşlem.pdb

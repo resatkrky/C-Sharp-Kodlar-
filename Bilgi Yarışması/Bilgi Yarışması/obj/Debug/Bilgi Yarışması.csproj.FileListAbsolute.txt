@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\C#\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Bilgi Yarışması.exe.config
+C:\Users\Asus\Desktop\C#\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Bilgi Yarışması.exe
+C:\Users\Asus\Desktop\C#\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Bilgi Yarışması.pdb
+C:\Users\Asus\Desktop\C#\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Form1.resources
+C:\Users\Asus\Desktop\C#\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.exe
+C:\Users\Asus\Desktop\C#\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.pdb
