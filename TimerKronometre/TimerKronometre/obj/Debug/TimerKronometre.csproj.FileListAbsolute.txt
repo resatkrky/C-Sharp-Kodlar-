@@ -1,0 +1,8 @@
+C:\Users\Asus\Desktop\C#\TimerKronometre\TimerKronometre\obj\Debug\TimerKronometre.Form1.resources
+C:\Users\Asus\Desktop\C#\TimerKronometre\TimerKronometre\obj\Debug\TimerKronometre.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\TimerKronometre\TimerKronometre\obj\Debug\TimerKronometre.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\TimerKronometre\TimerKronometre\bin\Debug\TimerKronometre.exe.config
+C:\Users\Asus\Desktop\C#\TimerKronometre\TimerKronometre\bin\Debug\TimerKronometre.exe
+C:\Users\Asus\Desktop\C#\TimerKronometre\TimerKronometre\bin\Debug\TimerKronometre.pdb
+C:\Users\Asus\Desktop\C#\TimerKronometre\TimerKronometre\obj\Debug\TimerKronometre.exe
+C:\Users\Asus\Desktop\C#\TimerKronometre\TimerKronometre\obj\Debug\TimerKronometre.pdb

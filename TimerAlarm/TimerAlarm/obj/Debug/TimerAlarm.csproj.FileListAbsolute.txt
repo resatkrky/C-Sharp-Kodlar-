@@ -1,0 +1,8 @@
+C:\Users\Asus\Desktop\C#\TimerAlarm\TimerAlarm\bin\Debug\TimerAlarm.exe.config
+C:\Users\Asus\Desktop\C#\TimerAlarm\TimerAlarm\bin\Debug\TimerAlarm.exe
+C:\Users\Asus\Desktop\C#\TimerAlarm\TimerAlarm\bin\Debug\TimerAlarm.pdb
+C:\Users\Asus\Desktop\C#\TimerAlarm\TimerAlarm\obj\Debug\TimerAlarm.Form1.resources
+C:\Users\Asus\Desktop\C#\TimerAlarm\TimerAlarm\obj\Debug\TimerAlarm.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\TimerAlarm\TimerAlarm\obj\Debug\TimerAlarm.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\TimerAlarm\TimerAlarm\obj\Debug\TimerAlarm.exe
+C:\Users\Asus\Desktop\C#\TimerAlarm\TimerAlarm\obj\Debug\TimerAlarm.pdb

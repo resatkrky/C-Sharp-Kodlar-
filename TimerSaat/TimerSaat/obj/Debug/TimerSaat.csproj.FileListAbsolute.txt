@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\C#\TimerSaat\TimerSaat\bin\Debug\TimerSaat.exe.config
+C:\Users\Asus\Desktop\C#\TimerSaat\TimerSaat\bin\Debug\TimerSaat.exe
+C:\Users\Asus\Desktop\C#\TimerSaat\TimerSaat\bin\Debug\TimerSaat.pdb
+C:\Users\Asus\Desktop\C#\TimerSaat\TimerSaat\obj\Debug\TimerSaat.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\TimerSaat\TimerSaat\obj\Debug\TimerSaat.Form1.resources
+C:\Users\Asus\Desktop\C#\TimerSaat\TimerSaat\obj\Debug\TimerSaat.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\TimerSaat\TimerSaat\obj\Debug\TimerSaat.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\TimerSaat\TimerSaat\obj\Debug\TimerSaat.exe
+C:\Users\Asus\Desktop\C#\TimerSaat\TimerSaat\obj\Debug\TimerSaat.pdb
