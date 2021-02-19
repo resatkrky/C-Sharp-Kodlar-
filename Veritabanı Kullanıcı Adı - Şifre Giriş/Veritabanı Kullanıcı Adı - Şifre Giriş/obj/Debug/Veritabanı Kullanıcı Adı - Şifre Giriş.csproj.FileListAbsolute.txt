@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\C#\Veritabanı Kullanıcı Adı - Şifre Giriş\Veritabanı Kullanıcı Adı - Şifre Giriş\obj\Debug\Veritabanı Kullanıcı Adı - Şifre Giriş.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Veritabanı Kullanıcı Adı - Şifre Giriş\Veritabanı Kullanıcı Adı - Şifre Giriş\obj\Debug\Veritabanı_Kullanıcı_Adı___Şifre_Giriş.Form1.resources
+C:\Users\Asus\Desktop\C#\Veritabanı Kullanıcı Adı - Şifre Giriş\Veritabanı Kullanıcı Adı - Şifre Giriş\obj\Debug\Veritabanı_Kullanıcı_Adı___Şifre_Giriş.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Veritabanı Kullanıcı Adı - Şifre Giriş\Veritabanı Kullanıcı Adı - Şifre Giriş\obj\Debug\Veritabanı Kullanıcı Adı - Şifre Giriş.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Veritabanı Kullanıcı Adı - Şifre Giriş\Veritabanı Kullanıcı Adı - Şifre Giriş\bin\Debug\Veritabanı Kullanıcı Adı - Şifre Giriş.exe.config
+C:\Users\Asus\Desktop\C#\Veritabanı Kullanıcı Adı - Şifre Giriş\Veritabanı Kullanıcı Adı - Şifre Giriş\bin\Debug\Veritabanı Kullanıcı Adı - Şifre Giriş.exe
+C:\Users\Asus\Desktop\C#\Veritabanı Kullanıcı Adı - Şifre Giriş\Veritabanı Kullanıcı Adı - Şifre Giriş\bin\Debug\Veritabanı Kullanıcı Adı - Şifre Giriş.pdb
+C:\Users\Asus\Desktop\C#\Veritabanı Kullanıcı Adı - Şifre Giriş\Veritabanı Kullanıcı Adı - Şifre Giriş\obj\Debug\Veritabanı Kullanıcı Adı - Şifre Giriş.exe
+C:\Users\Asus\Desktop\C#\Veritabanı Kullanıcı Adı - Şifre Giriş\Veritabanı Kullanıcı Adı - Şifre Giriş\obj\Debug\Veritabanı Kullanıcı Adı - Şifre Giriş.pdb
+C:\Users\Asus\Desktop\C#\Veritabanı Kullanıcı Adı - Şifre Giriş\Veritabanı Kullanıcı Adı - Şifre Giriş\obj\Debug\Veritabanı_Kullanıcı_Adı___Şifre_Giriş.Form2.resources
+C:\Users\Asus\Desktop\C#\Veritabanı Kullanıcı Adı - Şifre Giriş\Veritabanı Kullanıcı Adı - Şifre Giriş\obj\Debug\Veritabanı_Kullanıcı_Adı___Şifre_Giriş.Form3.resources

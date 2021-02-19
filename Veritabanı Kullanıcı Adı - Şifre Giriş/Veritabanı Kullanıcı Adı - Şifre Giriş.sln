@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veritabanı Kullanıcı Adı - Şifre Giriş", "Veritabanı Kullanıcı Adı - Şifre Giriş\Veritabanı Kullanıcı Adı - Şifre Giriş.csproj", "{999B59FC-1066-43C5-AC63-5A3AC0914715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{999B59FC-1066-43C5-AC63-5A3AC0914715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999B59FC-1066-43C5-AC63-5A3AC0914715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999B59FC-1066-43C5-AC63-5A3AC0914715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999B59FC-1066-43C5-AC63-5A3AC0914715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0305D09F-2891-47A4-BED7-3112B7BE21E0}
+	EndGlobalSection
+EndGlobal
