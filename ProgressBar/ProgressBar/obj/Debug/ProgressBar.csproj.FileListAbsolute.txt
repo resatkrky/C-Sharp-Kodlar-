@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\C#\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Form1.resources
+C:\Users\Asus\Desktop\C#\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe.config
+C:\Users\Asus\Desktop\C#\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe
+C:\Users\Asus\Desktop\C#\ProgressBar\ProgressBar\bin\Debug\ProgressBar.pdb
+C:\Users\Asus\Desktop\C#\ProgressBar\ProgressBar\obj\Debug\ProgressBar.exe
+C:\Users\Asus\Desktop\C#\ProgressBar\ProgressBar\obj\Debug\ProgressBar.pdb
+C:\Users\Asus\Desktop\C#\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Form2.resources
+C:\Users\Asus\Desktop\C#\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Form3.resources

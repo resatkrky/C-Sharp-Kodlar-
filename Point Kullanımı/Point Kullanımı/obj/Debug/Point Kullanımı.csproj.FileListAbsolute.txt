@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\C#\Point Kullanımı\Point Kullanımı\bin\Debug\Point Kullanımı.exe.config
+C:\Users\Asus\Desktop\C#\Point Kullanımı\Point Kullanımı\bin\Debug\Point Kullanımı.exe
+C:\Users\Asus\Desktop\C#\Point Kullanımı\Point Kullanımı\bin\Debug\Point Kullanımı.pdb
+C:\Users\Asus\Desktop\C#\Point Kullanımı\Point Kullanımı\obj\Debug\Point Kullanımı.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Point Kullanımı\Point Kullanımı\obj\Debug\Point_Kullanımı.Form1.resources
+C:\Users\Asus\Desktop\C#\Point Kullanımı\Point Kullanımı\obj\Debug\Point_Kullanımı.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Point Kullanımı\Point Kullanımı\obj\Debug\Point Kullanımı.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Point Kullanımı\Point Kullanımı\obj\Debug\Point Kullanımı.exe
+C:\Users\Asus\Desktop\C#\Point Kullanımı\Point Kullanımı\obj\Debug\Point Kullanımı.pdb
