@@ -1,0 +1,8 @@
+C:\Users\Asus\Desktop\C#\Klavye Tuş Yönlendirme 2\Klavye Tuş Yönlendirme 2\bin\Debug\Klavye Tuş Yönlendirme 2.exe.config
+C:\Users\Asus\Desktop\C#\Klavye Tuş Yönlendirme 2\Klavye Tuş Yönlendirme 2\bin\Debug\Klavye Tuş Yönlendirme 2.exe
+C:\Users\Asus\Desktop\C#\Klavye Tuş Yönlendirme 2\Klavye Tuş Yönlendirme 2\bin\Debug\Klavye Tuş Yönlendirme 2.pdb
+C:\Users\Asus\Desktop\C#\Klavye Tuş Yönlendirme 2\Klavye Tuş Yönlendirme 2\obj\Debug\Klavye_Tuş_Yönlendirme_2.Form1.resources
+C:\Users\Asus\Desktop\C#\Klavye Tuş Yönlendirme 2\Klavye Tuş Yönlendirme 2\obj\Debug\Klavye_Tuş_Yönlendirme_2.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Klavye Tuş Yönlendirme 2\Klavye Tuş Yönlendirme 2\obj\Debug\Klavye Tuş Yönlendirme 2.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Klavye Tuş Yönlendirme 2\Klavye Tuş Yönlendirme 2\obj\Debug\Klavye Tuş Yönlendirme 2.exe
+C:\Users\Asus\Desktop\C#\Klavye Tuş Yönlendirme 2\Klavye Tuş Yönlendirme 2\obj\Debug\Klavye Tuş Yönlendirme 2.pdb

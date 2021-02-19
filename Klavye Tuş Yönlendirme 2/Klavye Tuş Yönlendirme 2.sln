@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klavye Tuş Yönlendirme 2", "Klavye Tuş Yönlendirme 2\Klavye Tuş Yönlendirme 2.csproj", "{DE69094D-5AED-4255-9EB8-970E440B0974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE69094D-5AED-4255-9EB8-970E440B0974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE69094D-5AED-4255-9EB8-970E440B0974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE69094D-5AED-4255-9EB8-970E440B0974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE69094D-5AED-4255-9EB8-970E440B0974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AA24818-8D33-4D85-AD9A-01C7E9916665}
+	EndGlobalSection
+EndGlobal

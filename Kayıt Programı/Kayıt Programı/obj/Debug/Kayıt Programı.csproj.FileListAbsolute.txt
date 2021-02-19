@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\C#\Kayıt Programı\Kayıt Programı\bin\Debug\Kayıt Programı.exe.config
+C:\Users\Asus\Desktop\C#\Kayıt Programı\Kayıt Programı\bin\Debug\Kayıt Programı.exe
+C:\Users\Asus\Desktop\C#\Kayıt Programı\Kayıt Programı\bin\Debug\Kayıt Programı.pdb
+C:\Users\Asus\Desktop\C#\Kayıt Programı\Kayıt Programı\obj\Debug\Kayıt Programı.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Kayıt Programı\Kayıt Programı\obj\Debug\Kayıt_Programı.Form1.resources
+C:\Users\Asus\Desktop\C#\Kayıt Programı\Kayıt Programı\obj\Debug\Kayıt_Programı.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Kayıt Programı\Kayıt Programı\obj\Debug\Kayıt Programı.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Kayıt Programı\Kayıt Programı\obj\Debug\Kayıt Programı.exe
+C:\Users\Asus\Desktop\C#\Kayıt Programı\Kayıt Programı\obj\Debug\Kayıt Programı.pdb

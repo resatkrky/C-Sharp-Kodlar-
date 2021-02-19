@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\C#\Kullanıcı Kayıt Rehberi\Kullanıcı Kayıt Rehberi\obj\Debug\Kullanıcı Kayıt Rehberi.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Kullanıcı Kayıt Rehberi\Kullanıcı Kayıt Rehberi\obj\Debug\Kullanıcı_Kayıt_Rehberi.Form1.resources
+C:\Users\Asus\Desktop\C#\Kullanıcı Kayıt Rehberi\Kullanıcı Kayıt Rehberi\obj\Debug\Kullanıcı_Kayıt_Rehberi.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Kullanıcı Kayıt Rehberi\Kullanıcı Kayıt Rehberi\obj\Debug\Kullanıcı Kayıt Rehberi.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Kullanıcı Kayıt Rehberi\Kullanıcı Kayıt Rehberi\bin\Debug\Kullanıcı Kayıt Rehberi.exe.config
+C:\Users\Asus\Desktop\C#\Kullanıcı Kayıt Rehberi\Kullanıcı Kayıt Rehberi\bin\Debug\Kullanıcı Kayıt Rehberi.exe
+C:\Users\Asus\Desktop\C#\Kullanıcı Kayıt Rehberi\Kullanıcı Kayıt Rehberi\bin\Debug\Kullanıcı Kayıt Rehberi.pdb
+C:\Users\Asus\Desktop\C#\Kullanıcı Kayıt Rehberi\Kullanıcı Kayıt Rehberi\obj\Debug\Kullanıcı Kayıt Rehberi.exe
+C:\Users\Asus\Desktop\C#\Kullanıcı Kayıt Rehberi\Kullanıcı Kayıt Rehberi\obj\Debug\Kullanıcı Kayıt Rehberi.pdb

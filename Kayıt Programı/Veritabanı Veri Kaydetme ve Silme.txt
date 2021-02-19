@@ -1,0 +1,2 @@
+Silme işlemi için veritabanında id deger tutulması gerekiyor
+o yuzden burada silme işlemi çalışmadı 
