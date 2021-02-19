@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\C#\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\Matematik Hesaplamaları.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\Matematik_Hesaplamaları.Form1.resources
+C:\Users\Asus\Desktop\C#\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\Matematik_Hesaplamaları.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\Matematik Hesaplamaları.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Matematik Hesaplamaları\Matematik Hesaplamaları\bin\Debug\Matematik Hesaplamaları.exe.config
+C:\Users\Asus\Desktop\C#\Matematik Hesaplamaları\Matematik Hesaplamaları\bin\Debug\Matematik Hesaplamaları.exe
+C:\Users\Asus\Desktop\C#\Matematik Hesaplamaları\Matematik Hesaplamaları\bin\Debug\Matematik Hesaplamaları.pdb
+C:\Users\Asus\Desktop\C#\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\Matematik Hesaplamaları.exe
+C:\Users\Asus\Desktop\C#\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\Matematik Hesaplamaları.pdb

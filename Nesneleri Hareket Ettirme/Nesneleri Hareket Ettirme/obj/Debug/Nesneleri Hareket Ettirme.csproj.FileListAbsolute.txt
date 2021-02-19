@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\C#\Nesneleri Hareket Ettirme\Nesneleri Hareket Ettirme\bin\Debug\Nesneleri Hareket Ettirme.exe.config
+C:\Users\Asus\Desktop\C#\Nesneleri Hareket Ettirme\Nesneleri Hareket Ettirme\bin\Debug\Nesneleri Hareket Ettirme.exe
+C:\Users\Asus\Desktop\C#\Nesneleri Hareket Ettirme\Nesneleri Hareket Ettirme\bin\Debug\Nesneleri Hareket Ettirme.pdb
+C:\Users\Asus\Desktop\C#\Nesneleri Hareket Ettirme\Nesneleri Hareket Ettirme\obj\Debug\Nesneleri Hareket Ettirme.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Nesneleri Hareket Ettirme\Nesneleri Hareket Ettirme\obj\Debug\Nesneleri_Hareket_Ettirme.Form1.resources
+C:\Users\Asus\Desktop\C#\Nesneleri Hareket Ettirme\Nesneleri Hareket Ettirme\obj\Debug\Nesneleri_Hareket_Ettirme.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Nesneleri Hareket Ettirme\Nesneleri Hareket Ettirme\obj\Debug\Nesneleri Hareket Ettirme.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Nesneleri Hareket Ettirme\Nesneleri Hareket Ettirme\obj\Debug\Nesneleri Hareket Ettirme.exe
+C:\Users\Asus\Desktop\C#\Nesneleri Hareket Ettirme\Nesneleri Hareket Ettirme\obj\Debug\Nesneleri Hareket Ettirme.pdb

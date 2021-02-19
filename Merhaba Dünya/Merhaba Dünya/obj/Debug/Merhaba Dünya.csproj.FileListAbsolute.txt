@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\C#\Merhaba Dünya\Merhaba Dünya\bin\Debug\Merhaba Dünya.exe.config
+C:\Users\Asus\Desktop\C#\Merhaba Dünya\Merhaba Dünya\bin\Debug\Merhaba Dünya.exe
+C:\Users\Asus\Desktop\C#\Merhaba Dünya\Merhaba Dünya\bin\Debug\Merhaba Dünya.pdb
+C:\Users\Asus\Desktop\C#\Merhaba Dünya\Merhaba Dünya\obj\Debug\Merhaba Dünya.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Merhaba Dünya\Merhaba Dünya\obj\Debug\Merhaba_Dünya.Form1.resources
+C:\Users\Asus\Desktop\C#\Merhaba Dünya\Merhaba Dünya\obj\Debug\Merhaba_Dünya.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Merhaba Dünya\Merhaba Dünya\obj\Debug\Merhaba Dünya.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Merhaba Dünya\Merhaba Dünya\obj\Debug\Merhaba Dünya.exe
+C:\Users\Asus\Desktop\C#\Merhaba Dünya\Merhaba Dünya\obj\Debug\Merhaba Dünya.pdb
