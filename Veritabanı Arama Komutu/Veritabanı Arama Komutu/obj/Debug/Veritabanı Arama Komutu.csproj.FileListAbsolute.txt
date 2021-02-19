@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\C#\Veritabanı Arama Komutu\Veritabanı Arama Komutu\bin\Debug\Veritabanı Arama Komutu.exe.config
+C:\Users\Asus\Desktop\C#\Veritabanı Arama Komutu\Veritabanı Arama Komutu\bin\Debug\Veritabanı Arama Komutu.exe
+C:\Users\Asus\Desktop\C#\Veritabanı Arama Komutu\Veritabanı Arama Komutu\bin\Debug\Veritabanı Arama Komutu.pdb
+C:\Users\Asus\Desktop\C#\Veritabanı Arama Komutu\Veritabanı Arama Komutu\obj\Debug\Veritabanı Arama Komutu.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Veritabanı Arama Komutu\Veritabanı Arama Komutu\obj\Debug\Veritabanı_Arama_Komutu.Form1.resources
+C:\Users\Asus\Desktop\C#\Veritabanı Arama Komutu\Veritabanı Arama Komutu\obj\Debug\Veritabanı_Arama_Komutu.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Veritabanı Arama Komutu\Veritabanı Arama Komutu\obj\Debug\Veritabanı Arama Komutu.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Veritabanı Arama Komutu\Veritabanı Arama Komutu\obj\Debug\Veritabanı Arama Komutu.exe
+C:\Users\Asus\Desktop\C#\Veritabanı Arama Komutu\Veritabanı Arama Komutu\obj\Debug\Veritabanı Arama Komutu.pdb

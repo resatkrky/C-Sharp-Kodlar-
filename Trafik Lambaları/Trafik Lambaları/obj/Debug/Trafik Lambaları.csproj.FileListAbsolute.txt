@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\C#\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik Lambaları.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik_Lambaları.Form1.resources
+C:\Users\Asus\Desktop\C#\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik_Lambaları.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik Lambaları.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Trafik Lambaları\Trafik Lambaları\bin\Debug\Trafik Lambaları.exe.config
+C:\Users\Asus\Desktop\C#\Trafik Lambaları\Trafik Lambaları\bin\Debug\Trafik Lambaları.exe
+C:\Users\Asus\Desktop\C#\Trafik Lambaları\Trafik Lambaları\bin\Debug\Trafik Lambaları.pdb
+C:\Users\Asus\Desktop\C#\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik Lambaları.exe
+C:\Users\Asus\Desktop\C#\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik Lambaları.pdb

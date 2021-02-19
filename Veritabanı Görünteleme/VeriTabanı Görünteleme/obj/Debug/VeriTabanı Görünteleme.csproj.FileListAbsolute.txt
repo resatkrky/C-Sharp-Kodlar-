@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\C#\VeriTabanı Görünteleme\VeriTabanı Görünteleme\obj\Debug\VeriTabanı Görünteleme.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\VeriTabanı Görünteleme\VeriTabanı Görünteleme\obj\Debug\VeriTabanı_Görünteleme.Form1.resources
+C:\Users\Asus\Desktop\C#\VeriTabanı Görünteleme\VeriTabanı Görünteleme\obj\Debug\VeriTabanı_Görünteleme.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\VeriTabanı Görünteleme\VeriTabanı Görünteleme\obj\Debug\VeriTabanı Görünteleme.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\VeriTabanı Görünteleme\VeriTabanı Görünteleme\bin\Debug\VeriTabanı Görünteleme.exe.config
+C:\Users\Asus\Desktop\C#\VeriTabanı Görünteleme\VeriTabanı Görünteleme\bin\Debug\VeriTabanı Görünteleme.exe
+C:\Users\Asus\Desktop\C#\VeriTabanı Görünteleme\VeriTabanı Görünteleme\bin\Debug\VeriTabanı Görünteleme.pdb
+C:\Users\Asus\Desktop\C#\VeriTabanı Görünteleme\VeriTabanı Görünteleme\obj\Debug\VeriTabanı Görünteleme.exe
+C:\Users\Asus\Desktop\C#\VeriTabanı Görünteleme\VeriTabanı Görünteleme\obj\Debug\VeriTabanı Görünteleme.pdb

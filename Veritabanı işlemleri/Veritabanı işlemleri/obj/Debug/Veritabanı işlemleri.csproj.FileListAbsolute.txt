@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\C#\Veritabanı işlemleri\Veritabanı işlemleri\obj\Debug\Veritabanı işlemleri.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Veritabanı işlemleri\Veritabanı işlemleri\obj\Debug\Kayıt_Programı.Form1.resources
+C:\Users\Asus\Desktop\C#\Veritabanı işlemleri\Veritabanı işlemleri\obj\Debug\Veritabanı_işlemleri.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Veritabanı işlemleri\Veritabanı işlemleri\obj\Debug\Veritabanı işlemleri.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Veritabanı işlemleri\Veritabanı işlemleri\bin\Debug\Veritabanı işlemleri.exe.config
+C:\Users\Asus\Desktop\C#\Veritabanı işlemleri\Veritabanı işlemleri\bin\Debug\Veritabanı işlemleri.exe
+C:\Users\Asus\Desktop\C#\Veritabanı işlemleri\Veritabanı işlemleri\bin\Debug\Veritabanı işlemleri.pdb
+C:\Users\Asus\Desktop\C#\Veritabanı işlemleri\Veritabanı işlemleri\obj\Debug\Veritabanı işlemleri.exe
+C:\Users\Asus\Desktop\C#\Veritabanı işlemleri\Veritabanı işlemleri\obj\Debug\Veritabanı işlemleri.pdb
